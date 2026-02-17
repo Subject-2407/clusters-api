@@ -9,5 +9,5 @@
 
 ---
 
-## Changelog (v0.0.0)
-- initial commit
+## Changelog (v1.0.0)
+- added initial features
